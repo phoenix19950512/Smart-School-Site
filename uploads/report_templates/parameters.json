@@ -1,0 +1,1 @@
+[{"name":"code_massar","table":"students","field":"admission_no"},{"name":"num_classe","table":"students","field":"roll_no"},{"name":"firstname","table":"students","field":"firstname"},{"name":"lastname","table":"students","field":"lastname"},{"name":"date_of_b","table":"students","field":"dob"}]
